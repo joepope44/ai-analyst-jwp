@@ -1,5 +1,10 @@
 # AI Analyst
 
+> [!IMPORTANT]
+> **Note from Shane — February 22, 2026**
+>
+> This repo was last pushed to on February 20. Since then, the system has grown significantly through testing on more complex, real-world datasets. Everything below works, but the version we're running locally is substantially ahead of what's here. Major update coming in the next couple of days.
+
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Claude Code Required](https://img.shields.io/badge/requires-Claude%20Code-blueviolet.svg)](https://claude.ai/code)
